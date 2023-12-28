@@ -45,11 +45,11 @@ Make sure you have the following software installed on your machine:
 ## Usage
 
 - Access the backend API at `http://localhost:3000`.
-    http://localhost:3000/users?id=1
-    http://localhost:3000/users?username=
-    http://localhost:3000/users?age=
-    http://localhost:3000/users?email=
-    http://localhost:3000/users?phone=
+ - `http://localhost:3000/users?id=1`
+ - `http://localhost:3000/users?username=`
+ - `http://localhost:3000/users?age=`
+ - `http://localhost:3000/users?email=`
+ - `http://localhost:3000/users?phone=`
   
 - View the React app at `http://localhost:3001`.
 
