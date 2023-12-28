@@ -20,7 +20,7 @@ Make sure you have the following software installed on your machine:
 3. Run the server:
 
     ```bash
-    npm start
+   npx ts-node server.ts
     ```
 
    The server will start at `http://localhost:3000`.
